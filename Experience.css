@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Infant:wght@300&family=Cormorant+Garamond:ital,wght@1,300;1,400&family=Della+Respira&family=Domine&family=IBM+Plex+Sans+Thai:wght@100;300&family=Spectral:wght@200&family=Overpass:wght@100&family=Ibarra+Real+Nova&family=Kaisei+Tokumin&family=Radley:ital@1&family=STIX+Two+Text&family=Shippori+Mincho&display=swap');
+
+
+body{
+    background-image: url(images/cover2.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.box-2{
+    text-align: center;
+    font-family: 'Spectral', serif;
+    color: blanchedalmond;
+    font-size: 1cm;
+    font-style: italic;
+}
+.box-3{
+    font-family: 'Overpass', sans-serif;
+    color: whitesmoke;
+    font-size: 0.5cm;
+    position: absolute;
+    margin-top: 400px;
+    margin-left: 230px;
+    line-height: 8px;
+}
+
+h6{
+    font-family: 'Overpass', sans-serif;
+    color: whitesmoke;
+    font-size: 0.5cm;
+    position: absolute;
+    margin-top: 700px;
+    margin-left: 230px;
+    text-decoration: none;
+
+}
+
+.button-1{
+
+    margin-left: 1121px;
+    box-sizing: border-box;
+    border-radius: 45px;
+    color: black;
+    background-color: lightyellow;
+    padding: 10px;
+    text-decoration: none;
+    
+}
+ .button-1{
+     position: absolute;
+     font-size: 0.6cm;
+     font-family: 'Cormorant Infant', serif;
+     font-style:bold;
+     margin-top: 519px;
+     width: 85px;
+     text-align: center;
+ }
