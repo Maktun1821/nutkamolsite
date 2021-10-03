@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Infant:wght@300&family=Cormorant+Garamond:ital,wght@1,300;1,400&family=Della+Respira&family=Domine&family=IBM+Plex+Sans+Thai:wght@100;300&family=Overpass:wght@100&family=Ibarra+Real+Nova&family=Kaisei+Tokumin&family=Radley:ital@1&family=STIX+Two+Text&family=Shippori+Mincho&display=swap');
+
+body{
+    background-image: url(images/mycover.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.box-1{
+    margin-top: 320px;
+    margin-left: 320px;
+    font-family: 'Cormorant Infant', serif;
+    font-style: italic;
+    font-size: 1.5cm;
+    color: azure;
+    line-height: 35px;
+}
+
+.box-2{
+    margin-top: -70px;
+    margin-left: 750px;
+    font-family: 'Overpass', sans-serif;
+    font-size: 0.4cm ;
+    color: lightgray;
+    line-height: 2px;
+    font-style: italic;
+}
+
+
+.button-1{
+
+    margin-left: 1120px;
+    box-sizing: border-box;
+    border-radius: 45px;
+    color: black;
+    background-color: lightyellow;
+    padding: 10px;
+    text-decoration: none;
+    
+}
+ .button-1{
+     position: absolute;
+     font-size: 0.6cm;
+     font-family: 'Cormorant Infant', serif;
+     font-style:bold;
+     margin-top: 300px;
+     width: 85px;
+     text-align: center;
+ }

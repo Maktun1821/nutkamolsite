@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Infant:wght@300&family=Cormorant+Garamond:ital,wght@1,300;1,400&family=Della+Respira&family=Domine&family=IBM+Plex+Sans+Thai:wght@100;300&family=Spectral:wght@200&family=Overpass:wght@100&family=Ibarra+Real+Nova&family=Kaisei+Tokumin&family=Radley:ital@1&family=STIX+Two+Text&family=Shippori+Mincho&display=swap');
+
+body{
+    background-image: url(images/cover2.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+h1{
+    font-size: 0.6cm;
+    color: white;
+    text-align: center;
+    font-family: 'Cormorant Infant', serif;
+    font-style: italic;
+}
+
+h4{
+    
+        font-size: 0.6cm;
+        color: white;
+        text-align: center;
+        font-family: 'Overpass', sans-serif;
+        font-style: italic;
+    
+    
+}
